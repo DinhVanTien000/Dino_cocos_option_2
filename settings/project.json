@@ -8,17 +8,16 @@
     ]
   ],
   "excluded-modules": [
-    "Collider",
     "DragonBones",
     "EditBox",
     "Geom Utils",
     "Intersection",
+    "Layout",
     "Label Effect",
     "Mesh",
     "MotionStreak",
     "NodePool",
     "Native Socket",
-    "Physics",
     "PageView",
     "PageViewIndicator",
     "ProgressBar",
