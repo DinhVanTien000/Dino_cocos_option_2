@@ -1,0 +1,27 @@
+
+Fang.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+down
+  rotate: false
+  xy: 2, 2
+  size: 110, 46
+  orig: 110, 46
+  offset: 0, 0
+  index: -1
+flash
+  rotate: false
+  xy: 129, 48
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 2, 50
+  size: 125, 58
+  orig: 125, 58
+  offset: 0, 0
+  index: -1
